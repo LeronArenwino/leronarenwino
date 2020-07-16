@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a system engineer student of National University of Colombia who is interested in development of applications
+
+:book: I have worked on different projects developed mainly in Java
+
+## Contact
+
+LinkedIn [LinkedIn](https://www.linkedin.com/in/francisco-due%C3%B1as-16b6a61b2/)
+
+Twitter [Twitter](https://twitter.com/FranciscoDuC)
