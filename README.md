@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a system engineer student of National University of Colombia who is interested in development of applications
+I'm a system engineer of National University of Colombia who is interested in development of applications
 
 :book: I have worked on different projects developed mainly in Java
 
