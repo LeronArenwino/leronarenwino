@@ -21,5 +21,3 @@ I'm a system engineer of National University of Colombia who is interested in de
 ## Contact
 
 LinkedIn [LinkedIn](https://www.linkedin.com/in/francisco-due%C3%B1as-16b6a61b2/)
-
-Twitter [Twitter](https://twitter.com/LeronArenwino)
