@@ -18,7 +18,7 @@ I enjoy building **scalable and secure applications** using **Java, Spring Boot,
 - **Languages:** Java (8–21), Python  
 - **Frameworks:** Spring Boot, Spring WebFlux, Django  
 - **Cloud:** AWS (EC2, S3, CloudFormation, SNS, SQS), Azure  
-- **Tools & DevOps:** Git, Docker, Kubernetes, JMeter, Grafana, Dynatrace  
+- **Tools & DevOps:** Git, Docker, Kubernetes, Grafana, Dynatrace  
 - **Testing:** JUnit, PyUnit, pytest, JMeter  
 
 ---
