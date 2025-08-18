@@ -1,23 +1,31 @@
-### Hi, welcome to my little profile in GitHub! 😄
+# 👋 Hi, welcome to my GitHub profile! 😄  
 
-<!--
-**LeronArenwino/leronarenwino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Francisco Dueñas**, a **Cloud & Backend Developer** from Colombia 🇨🇴.  
+I enjoy building **scalable and secure applications** using **Java, Spring Boot, and Spring WebFlux**, and I’m passionate about **cloud technologies, microservices, and reactive systems**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm a system engineer of National University of Colombia who is interested in development of applications
+## 🚀 About Me  
+- 🎓 Systems & Computer Engineer from the **National University of Colombia**  
+- 💻 4+ years of experience in **Backend Development** (Java, Python)  
+- ☁️ Experienced with **AWS & Azure** cloud services  
+- ⚡ Skilled in **microservices, reactive programming, and CI/CD pipelines**  
+- 🛠️ Hands-on with **Docker, Kubernetes, RabbitMQ, Grafana, Dynatrace**  
 
-:book: I have worked on different projects developed mainly in Java
+---
 
-## Contact
+## 🛠️ Tech Stack  
+- **Languages:** Java (8–21), Python  
+- **Frameworks:** Spring Boot, Spring WebFlux, Django  
+- **Cloud:** AWS (EC2, S3, CloudFormation, SNS, SQS), Azure  
+- **Tools & DevOps:** Git, Docker, Kubernetes, Jenkins, Grafana, Dynatrace  
+- **Testing:** JUnit, PyUnit, pytest, JMeter  
 
-LinkedIn [LinkedIn](https://www.linkedin.com/in/francisco-due%C3%B1as-16b6a61b2/)
+---
+
+## 📫 Contact  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/leronarenwino/)  
+- 💻 [Portfolio](https://leronarenwinoapp.web.app/)
+
+---
+✨ *Always learning, always building.* 🚀  
