@@ -1,7 +1,9 @@
 # 👋 Hi, welcome to my GitHub profile! 😄  
 
-I'm **Francisco Dueñas**, a **Cloud & Backend Developer** from Colombia 🇨🇴.  
-I enjoy building **scalable and secure applications** using **Java, Spring Boot, and Spring WebFlux**, and I’m passionate about **cloud technologies, microservices, and reactive systems**.  
+I'm Francisco Dueñas, a Cloud & Backend Developer from Colombia 🇨🇴.  
+
+I build scalable and secure applications using Java, Spring Boot, and Spring WebFlux, with strong focus on cloud technologies, microservices, and reactive systems.
+
 
 ---
 
