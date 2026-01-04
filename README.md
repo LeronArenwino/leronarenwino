@@ -35,7 +35,7 @@ I'm **Francisco Dueñas**, a **Cloud-Native & Backend Developer**, specialized i
 
 ## 📫 Contact
 - 🌐 [LinkedIn](https://www.linkedin.com/in/fduenasc/)
-- 💻 [Portfolio](https://leronarenwinoapp.web.app/)
+- 💻 [Portfolio](https://fduenasc.dev/)
 
 ---
 
